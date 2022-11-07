@@ -62,3 +62,12 @@ Doctrine + Symfony + Composer Tutorial
 # config type doctrine
     
     - ./config/packages/doctrine.yaml
+
+# References
+
+    - https://blog.pleets.org/article/instalar-apache-php-mysql-en-arch-linux
+    - https://www.youtube.com/watch?v=336JTqgIMYk&list=PLWpsZlKx38t-iEAJCDwR2eEN6PM89pfQT&index=1
+    - https://github.com/codenip-tech/codenip-symfony-doctrine/tree/feature/003-entities-and-migrations
+    - https://www.youtube.com/watch?v=mCFy1r-4ZMU
+    - https://www.youtube.com/watch?v=B3UQxTzlJlI
+    - https://www.doctrine-project.org/projects/doctrine-orm/en/current/tutorials/getting-started.html
